@@ -3,22 +3,22 @@
     margin: 10px auto 10px auto;
     /* top, right, bottom, left */
     height: 1000px;
-    background:#224466;
+    background-color:#224466;
     border:#eeeeee;
 }
 p{
-    color: #6699ff;
+    background-color: #6699ff;
 }
 
 header {
-    width: 100%;
+    width: 100px;
     height: 50px;
-    background:#6699ff;
+    background-color:#6699ff;
     text-align: center;
 }
 
 .article-header {
-    background:#224466;
+    background-color:#224466;
 }
 
 nav, aside {
@@ -29,7 +29,7 @@ nav, aside {
 
 article {
     /*border: 1px solid #000000;*/
-    background: #ffffff;
+    background-color: #ffffff;
     width:300px;
     float: left;
 }
