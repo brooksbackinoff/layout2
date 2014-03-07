@@ -6,6 +6,9 @@
     background:#224466;
     border:#eeeeee;
 }
+div.bg{
+    background:224466;
+}
 
 header {
     width: 100%;
