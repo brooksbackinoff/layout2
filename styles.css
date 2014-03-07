@@ -7,7 +7,7 @@
     border:#eeeeee;
 }
 p{
-    color: #6699ff;
+    background-color: #6699ff;
 }
 
 header {
@@ -22,7 +22,7 @@ header {
 }
 
 nav, aside {
-    background-color:#ccff99;
+    background:#ccff99;
     width:100px;
     float: left;
 }
